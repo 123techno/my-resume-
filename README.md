@@ -1,8 +1,8 @@
 Hello
 
-I’m Haresh Panigrahi
+I’m<b> Haresh Panigrahi</b>
 
-    Mai.            : technoharesh143@gmail.com       
+    Mail           : technoharesh143@gmail.com       
 
     📞             : 7381876799
 
